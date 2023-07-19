@@ -8,3 +8,10 @@ Context is a mechanism that provides different Components and allows us to pass 
 
 ### Creating Context
 React.createContext(INITIAL_VALUE)
+It returns an object with different properties to update and access values from the context.
+
+### Context Properties
+The Context object provides two properties.
+
+Consumer
+Provider
