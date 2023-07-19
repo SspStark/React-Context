@@ -16,3 +16,12 @@ The Context object provides two properties.
  - Consumer
  - Provider </br>
 ##### We can access the value in the Context using Consumer Component provided by the Context Object.
+
+## 3. Consumer Component
+
+<ContextObject.Consumer>
+  {/*callback function*/}
+</ContextObject.Consumer>
+
+- We access the Consumer component using dot notation from the context object.
+- We will give a callback function as children for Consumer Component.
