@@ -15,4 +15,4 @@ The Context object provides two properties.
 
  - Consumer
  - Provider </br>
-We can access the value in the Context using Consumer Component provided by the Context Object.
+##### We can access the value in the Context using Consumer Component provided by the Context Object.
