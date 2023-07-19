@@ -26,4 +26,14 @@ The Context object provides two properties.
 - We access the Consumer component using dot notation from the context object.
 - We will give a callback function as children for Consumer Component.
 ##### The callback function receives the current context value as an argument and returns a component or a JSX element.
-Look at the to understand the syntax of callback function.
+Look at the code to understand the syntax of callback function.
+
+## 4. Provider
+- Provider Component updates the value of Context.
+- When the provider updates context, all the nested consumers of that provider will be re-rendered.
+- Updated context value can only be accessed by the consumers nested within the provider. <br/>
+
+ContextObject.Provider value={/* some value */}>
+   ...
+<ContextObject.Provider/>
+
