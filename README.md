@@ -1,5 +1,2 @@
-# React Context | Part 2
+# [React Context](https://sspwindowsapp.ccbp.tech/)
 
-- Context Provider
-  - Where to Write?
-- Context Flow
