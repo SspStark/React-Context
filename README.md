@@ -36,4 +36,7 @@ Look at the code to understand the syntax of callback function.
 ContextObject.Provider value={/* some value */}>
    .......
 <ContextObject.Provider/>
+To update context value, we have to pass it as a prop to the Provider component.
 
+The context value should have the data which the consumers need.
+It should also contain the required methods to update that data.
