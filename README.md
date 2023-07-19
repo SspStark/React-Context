@@ -25,3 +25,4 @@ The Context object provides two properties.
 
 - We access the Consumer component using dot notation from the context object.
 - We will give a callback function as children for Consumer Component.
+##### The callback function receives the current context value as an argument and returns a component or a JSX element.
