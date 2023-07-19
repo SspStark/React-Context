@@ -13,5 +13,5 @@ It returns an object with different properties to update and access values from 
 ### Context Properties
 The Context object provides two properties.
 
-Consumer
-Provider
+ - Consumer
+ - Provider
