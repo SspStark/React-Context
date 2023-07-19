@@ -14,5 +14,5 @@ It returns an object with different properties to update and access values from 
 The Context object provides two properties.
 
  - Consumer
- - Provider
+ - Provider </br>
 We can access the value in the Context using Consumer Component provided by the Context Object.
